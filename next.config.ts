@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  experimental: {
+    serverActions: {}, // Habilita o suporte a Server Components
+  },
 };
 
 export default nextConfig;

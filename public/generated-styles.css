@@ -1,0 +1,44 @@
+.css-bd4042f283e5f93fb910d3bd9d84068a { 
+    display: flex;
+    gap: 16px;
+ }
+.css-38d0690d23eafd83e3cb28fd39287512 { 
+    background-color: blue;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    
+    color: red;
+    padding: 24px 32px;
+    font-size: 24px;
+    border-radius: 100px;
+    line-height: 24px;
+
+    cursor: pointer;
+
+    &:hover {
+        background-color: darkblue;
+    }
+ }
+.css-699679186f4764549ac37acf1eef4731 { 
+    background-color: green;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    
+    color: red;
+    padding: 24px 32px;
+    font-size: 24px;
+    border-radius: 100px;
+    line-height: 24px;
+
+    cursor: pointer;
+
+    &:hover {
+        background-color: darkgray;
+    }
+ }
